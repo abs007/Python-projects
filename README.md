@@ -1,2 +1,2 @@
-# Python-projects
-Random programs using the python language
+# Ai implementations
+Different implementations in the field of ai.
